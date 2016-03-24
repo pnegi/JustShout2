@@ -6,7 +6,7 @@ A simple chat box where people can chat/shout together in a group.
   - Latest Material Design and uses Ajax. 
   - Nice UI and easy to use and can be fun
 
-The link to the app is **[JustShout2](http://ashokdey.in/projects/jushshout2)**
+The link to the app is **[JustShout2](http://ashokdey.in/projects/justshout2)** and the older version is *[here](http://www.ashokdey.in/projects/justshout)*
 
 ### Version
 1.0
