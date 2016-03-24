@@ -13,7 +13,6 @@ The link to the app is **[JustShout2](http://ashokdey.in/projects/jushshout2)**
 
 ### TechStack
 
-Dillinger uses a number of open source projects to work properly:
 * **HTML5**
 * **CSS3**
 * **PHP**
