@@ -18,8 +18,6 @@ The link to the app is **[JustShout2](http://ashokdey.in/projects/jushshout2)**
 * **PHP**
 * **MySQL**
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 ### Installation
 
