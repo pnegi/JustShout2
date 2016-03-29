@@ -92,8 +92,8 @@
 
 	//checking if form is submitted or not
 	if (isset($_POST['submit'])) {
-		$username = mysqli_real_escape_string ($con, $_POST['username']);
-		$message = mysqli_real_escape_string ($con, $_POST['message']);
+		$username = mysqli_real_escape_string ($con, htmlentities($_POST['username']));
+		$message = mysqli_real_escape_string ($con, htmlentities($_POST['message']));
 	}
 
 	//form validation
