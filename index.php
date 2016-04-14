@@ -8,7 +8,7 @@
     // Using custom time format using the following function
     // $customTime = date('d M Y - D, h:m A', strtotime($row['time']));
     // Setting timezone
-    date_default_timezone_set('Asia/Calcutta');
+    date_default_timezone_set('Asia/Kolkata');
 ?>
 
 <!DOCTYPE html>
