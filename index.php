@@ -16,7 +16,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <title>JustShout v.2.0</title>
+        <title>JustShout v.2.0 by Priyanka</title>
         <link href="favicon.png" rel="shorcut icon">
         <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>  <link type="text/css" rel="stylesheet" href="css/font-awesome.min.css"/>
         <link type="text/css" rel="stylesheet" href="css/style.css">
